@@ -1,2 +1,15 @@
 # app-dev
 My First Repository
+### My Top 3 Anime/Manga
+
+| Anime | Title | Synopsis |
+| ----------- | ----------- | ----------- |
+| 	![alt text](https://chainsawmanstore.com/wp-content/uploads/2021/04/chainsawman-poster-09-204.jpg)| [Chainsaw Man](https://w3.chainsawman-manga.net/) | Denji is robbed of a normal teenage life, left with nothing but his deadbeat father's overwhelming debt. His only companion is his pet, the chainsaw devil Pochita, with whom he slays devils for money that inevitably ends up in the yakuza's pockets. |
+| 	![alt text](https://th.bing.com/th/id/R.acd4da1d0e2cb6b7e45560594fba85c9?rik=j0ux%2fZkvgSQHpg&riu=http%3a%2f%2fpm1.narvii.com%2f5914%2f1641ffa950fa0a1225bdab22bfa9ff650a8aac08_00.jpg&ehk=pLx89701dZeiZ60eZYe8friFGP3yHKHBP7qHw6sMh9A%3d&risl=&pid=ImgRaw&r=0)| [Steins;Gate](https://www.bing.com/ck/a?!&&p=7e86eb77adf7d8c9JmltdHM9MTcxNTM4NTYwMCZpZ3VpZD0xOTA4MWFkMy1mNjBjLTZhODctMWI3NC0wZWFmZjdiYTZiNDAmaW5zaWQ9NTE5MQ&ptn=3&ver=2&hsh=3&fclid=19081ad3-f60c-6a87-1b74-0eaff7ba6b40&psq=Steins+gate+synopsis&u=a1aHR0cHM6Ly9teWFuaW1lbGlzdC5uZXQvYW5pbWUvOTI1My9TdGVpbnNfR2F0ZQ&ntb=1) | Eccentric scientist Rintarou Okabe has a never-ending thirst for scientific exploration. Together with his ditzy but well-meaning friend Mayuri Shiina and his roommate Itaru Hashida, Okabe founds the Future Gadget Laboratory in the hopes of creating technological innovations that baffle the human psyche. Despite claims of grandeur, the only notable "gadget" the trio have created is a microwave that has the mystifying power to turn bananas into green goo. However, when Okabe attends a conference on time travel, he experiences a series of strange events that lead him to believe that there is more to the "Phone Microwave" gadget than meets the eye. Apparently able to send text messages into the past using the microwave, Okabe dabbles further with the "time machine," attracting the ire and attention of the mysterious organization SERN. Due to the novel discovery, Okabe and his friends find themselves in an ever-present danger. As he works to mitigate the damage his invention has caused to the timeline, Okabe fights a battle to not only save his loved ones but also to preserve his degrading sanity. |
+| 	![alt text](https://image.tmdb.org/t/p/original/tpym31HVeQgenaubvCxkMF3kFHy.jpg)| [Saiki Kusuo no Psi nan](https://www.bing.com/ck/a?!&&p=7c2e314dc28a266cJmltdHM9MTcxNTM4NTYwMCZpZ3VpZD0xOTA4MWFkMy1mNjBjLTZhODctMWI3NC0wZWFmZjdiYTZiNDAmaW5zaWQ9NTMxMg&ptn=3&ver=2&hsh=3&fclid=19081ad3-f60c-6a87-1b74-0eaff7ba6b40&psq=saiki+kusuo+psi+nan&u=a1aHR0cHM6Ly9teWFuaW1lbGlzdC5uZXQvYW5pbWUvMzMyNTUvU2Fpa2lfS3VzdW9fbm9fJUNFJUE4LW5hbg&ntb=1) | To the average person, psychic abilities might seem a blessing; for Kusuo Saiki, however, this could not be further from the truth. Gifted with a wide assortment of supernatural abilities ranging from telepathy to x-ray vision, he finds this so-called blessing to be nothing but a curse. |
+
+fire force
+assassination classroom
+souleater 
+kiznaiver
+no game no life
